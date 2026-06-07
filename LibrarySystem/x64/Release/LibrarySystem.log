@@ -1,0 +1,12 @@
+﻿  BookService.cpp
+  BorrowService.cpp
+  DBHelper.cpp
+  main.cpp
+E:\mysqltext\LibrarySystem\LibrarySystem\main.cpp(73,20): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+E:\mysqltext\LibrarySystem\LibrarySystem\main.cpp(79,20): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+  ReaderService.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 537 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  LibrarySystem.vcxproj -> E:\mysqltext\LibrarySystem\x64\Release\LibrarySystem.exe
